@@ -18,6 +18,12 @@ Skills: C/C++ / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmin-sultana-lima&show_icons=true)  
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=yasmin-sultana-lima)  
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmin-sultana-lima&show_icons=true)  
+
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/yasmin-sultana-lima/contributions?format=svg&private=false)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=yasmin-sultana-lima)  
